@@ -1,8 +1,8 @@
 # React + Vite + Framer Motion
 
 
-+React
-+Framer Motion
+- React
+- Framer Motion
 
 
 This is mini doc app created using REACt and FRAMER MOTION.
