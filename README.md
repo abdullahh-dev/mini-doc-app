@@ -5,5 +5,5 @@
 - Framer Motion
 
 
-This is mini doc app created using REACt and FRAMER MOTION.
+This is mini doc app created using REACT and FRAMER MOTION.
 Utilized motion.div functionality in this project that Framer motion provided. 
